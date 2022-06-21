@@ -1,0 +1,46 @@
+body{
+    font-family: sans-serif;
+    background-image: url(abstract-blue-background_90380-1282.webp);
+    background-size: cover;
+}
+.sign-up-form{
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: #fff;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+.sign-up-form h1 {
+    color: blue;
+}
+.input-box{
+   border-radius: 20px; 
+   padding: 10px;
+   margin: 10px 0;
+   width: 50%;
+   border: 1px solid #999 ;
+   outline: none;
+}
+button
+{
+    color:#fff;
+    width:  100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 16px;
+    margin: 10px 0;
+    outline: none;
+    cursor: pointer;
+}
+.signup-btn{
+    background-color: blue;
+   
+}
+.google-btn{
+    background-color: rgb(26, 156, 231);
+}
+hr{
+    margin-top: 20px;
+    width: 80px;
+}
